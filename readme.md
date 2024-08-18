@@ -1,33 +1,14 @@
-# Awesome GitHub Profile Readme Templates
+# Hola! 👋 Soy Damián De Aguiar
 
-Este proyecto proporciona una colección de plantillas increíbles para perfiles de GitHub.
+Soy un amante de la tecnología :computer:, entusasta del mundo startups :rocket: y fotógrafo :camera: en mis tiempos lilbres. Actualmente tengo 23 años y me encuentro cursando el Magíster en Ciencias de Datos 📚 en la Universidad de Chile 🇨🇱
 
-## Contenido
 
-- **Plantillas de perfil**: Encuentra diversas plantillas para personalizar tu perfil de GitHub.
-- **Cómo usar**: Instrucciones sobre cómo implementar estas plantillas en tu perfil.
+## Puedes saber más de mi acá: :link: 
+💼 **[LinkedIn](https://www.linkedin.com/in/dami%C3%A1n-de-aguiar/)**
+🖼️ **[@damiatus_](https://www.instagram.com/damiatus_)**
+:computer:**[GitHub/damiatus](https://www.github.com/damiatus)**
+:email: **[damiandeaguair@gmail.com](mailto:damiandeaguiar@gmail.com)** 
 
-## Recursos
+![\\wsl.localhost\Ubuntu\home\damiatus\damiatus\myPicture](/assets/\\wsl.localhost\Ubuntu\home\damiatus\damiatus\myPicture.jpg)
 
-1. **[Awesome GitHub Profile Readme Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)**
-
-## Configuración del Sidebar
-
-Para personalizar el sidebar en tu repositorio, puedes usar la configuración de Docsify. Aquí hay un ejemplo básico de configuración:
-
-```html
-<script>
-  window.$docsify = {
-    search: [ '/_sidebar' ],
-    name: 'Awesome Github Profile Readme Templates',
-    basePath: 'https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/',
-    loadSidebar: true,
-    auto2top: true,
-    sidebarDisplayLevel: 1,
-  }
-</script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+### Próximamente añadiré más cosas a este readme
