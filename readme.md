@@ -4,11 +4,12 @@ Soy un amante de la tecnología :computer:, entusasta del mundo startups :rocket
 
 
 ## Puedes saber más de mi acá: :link: 
-💼 **[LinkedIn](https://www.linkedin.com/in/dami%C3%A1n-de-aguiar/)**
-🖼️ **[@damiatus_](https://www.instagram.com/damiatus_)**
-:computer:**[GitHub/damiatus](https://www.github.com/damiatus)**
-:email: **[damiandeaguair@gmail.com](mailto:damiandeaguiar@gmail.com)** 
+💼 **[LinkedIn](https://www.linkedin.com/in/dami%C3%A1n-de-aguiar/)**  
+🖼️ **[@damiatus_](https://www.instagram.com/damiatus_)**  
+:computer:**[GitHub/damiatus](https://www.github.com/damiatus)**  
+:email: **[damiandeaguair@gmail.com](mailto:damiandeaguiar@gmail.com)**   
 
-![\\wsl.localhost\Ubuntu\home\damiatus\damiatus\myPicture](/assets/\\wsl.localhost\Ubuntu\home\damiatus\damiatus\myPicture.jpg)
+![Picture of myself](https://github.com/damiatus/damiatus/blob/main/myPicture.jpg)
 
-### Próximamente añadiré más cosas a este readme
+
+### Próximamente añadiré más cosas a este readme!
