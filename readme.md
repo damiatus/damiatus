@@ -1,6 +1,6 @@
 # Hola! 👋 Soy Damián De Aguiar
 
-Soy un amante de la tecnología :computer:, entusasta del mundo startups :rocket: y fotógrafo :camera: en mis tiempos lilbres. Actualmente tengo 23 años y me encuentro cursando el Magíster en Ciencias de Datos 📚 en la Universidad de Chile 🇨🇱
+Amante de la tecnología :computer:, entusasta del mundo startups :rocket: y fotógrafo :camera: en mis tiempos lilbres. Actualmente tengo 23 años y me encuentro cursando el Magíster en Ciencias de Datos 📚 en la Universidad de Chile 🇨🇱
 
 
 ## Puedes saber más de mi acá: :link: 
@@ -12,4 +12,4 @@ Soy un amante de la tecnología :computer:, entusasta del mundo startups :rocket
 ![Picture of myself](https://github.com/damiatus/damiatus/blob/main/myPicture.jpg)
 
 
-### Próximamente añadiré más cosas a este readme!
+### Próximamente añadiré más cosas a este readme
